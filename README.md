@@ -16,4 +16,4 @@ This study investigates how the strictness of U.S. immigration policy—proxied 
 - **LFPR Impact:** While a negative correlation exists, the R/L ratio was not a statistically significant predictor of LFPR, suggesting other factors like Wage Growth and Time are stronger drivers.
 
 ## 📄 Full Report
-The complete paper including descriptive statistics (Table I) and normality diagnostics (Figures 4 & 5) is available in the `Danish_Khan_Paper_2.pdf` file.
+The complete paper including descriptive statistics (Table I) and normality diagnostics (Figures 4 & 5) is available in the `Danish_Khan_Immigration_Policy_Paper.pdf` file.
